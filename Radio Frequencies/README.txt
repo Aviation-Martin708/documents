@@ -1,11 +1,21 @@
-Here are Radio Frequencies for both Weather and Airport information.
+Here are Radio Frequencies for both Weather and Airport information Abbrviated.
 
 Weather
 1.  ASOS  135.42 MHZ SEA
 2.  AWOS  126.95 MHZ SEA
 3.  AWOS  127.075 MHz  Olympia Regional Airport (KOLM)  
-4.  AWOS  118.375 MHz  Ellensburg Bowers Field 
-5.  AWOS  135.175 MHz  Deer Park, WA
+4.  AWOS  128.575 MHz  PUYALLUP 
+5.  AWOS  124.05  MHz  TACOMA 
+6.  AWOS  135.625 MHz  ARLINGTON 
+7.  AWOS  135.075 MHz  KELSO 
+8.  AWOS  128.65 MHz   EVERETT
+9.  AWOS  121.2  MHz   BREMERTON
+10. AWOS  135.175 MHz  Deer Park, WA           
+11. AWOS  118.375 MHz  Ellensburg Bowers Field 
+12. AWOS  132.675 MHz  RICHLAND   
+13. AWOS  135.775 MHz  HOQUIAM 
+
+  
 
 KAWO   ARLINGTON   135.625
 
